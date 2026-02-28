@@ -2,8 +2,6 @@
 
 # TODO:
 - Edit Pump_Probe to determine percent excitation
-- Create Ghost_Imaging analysis notebook. This is in progress. The ghost imaging analysis is tedious. Hopefully will finish this tomorrow. (Flip it back around for testing)
-- Do we need something to determine the Zn fluorescence pattern?
 - Make notebook for spectrometer calibration. Not sure how this is going to go...
 
 # Completed:
@@ -16,3 +14,5 @@
 - Edit Timetool_Calibration if needed (No edits required)
 - Edit Mask_Maker if needed (Minor edits)
 - Get xyz or mol files for DMP ground, 3pL, 3sL, 3sD, and DMHP?
+- Create Ghost_Imaging analysis notebook. This is in progress. The ghost imaging analysis is tedious. Hopefully will finish this tomorrow. (Flip it back around for testing)
+- Do we need something to determine the Zn fluorescence pattern? (answer-> no., not for fast analysis)

@@ -1,0 +1,4 @@
+From Lisa:
+
+- The geometries labelled 'DMP_D', 'DMP_L1', 'DMP_L2' and 'DMP_ground_Alec' are computing using SIC calculations. Alec (Hannes's previous graduate student) located a second localized minimum state, which is why there are two structures L1 and L2.
+- 3sL and 3sD labelled xyz files are from Yong et al paper and I pulled the ground state from Cheng et al paper. Ground state here was computed with CCSD.

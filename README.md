@@ -1,8 +1,6 @@
-# CXI-Template
-Template fast-analysis code for CXI Experiments in standard configuration #2.
+# CXI-1015861-Romano
+Code for the beamtime
 ## Setup
-Use this template to make a new repository, and don't forget to edit `config.yaml` file to match the experiment.
-
 ### To set up the environment that is needed for this code, run the following commands. Note: you do **not** need to `pip install` anything.
 ```bash
 conda init

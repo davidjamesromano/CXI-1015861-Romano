@@ -24,5 +24,9 @@ photon_energy:
 samples:
 - runs: [0, .inf]
   sample: '[Sample]'
+# Spectrometer Calibration data
+spectrometer_calibration:
+- runs: [0, .inf]
+  coefficients: [0, 1, 2] 
 # Timetool calibration data
 tt_calibration:

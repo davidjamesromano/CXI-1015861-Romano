@@ -22,8 +22,12 @@ photon_energy:
   energy: 9.660   # in keV
 # Sample types
 samples:
-- runs: [0, .inf]
-  sample: '[Sample]'
+- runs: [1, 1]
+  sample: 'Dark'
+- runs: [2, 2]
+  sample: 'Test'
+- runs: [3, 4]
+  sample: 'Dark'
 # Spectrometer Calibration data
 spectrometer_calibration:
 - runs: [0, .inf]
